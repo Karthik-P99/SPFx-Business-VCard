@@ -118,7 +118,7 @@ MIT
 1.  Akash
 2.  Anita
 3.  Karthikeyan
-4.  Karthik
+4.  [Karthik Panyaram](https://www.linkedin.com/in/karthik-panyaram/)
 
 
 ## Acknowledgements
